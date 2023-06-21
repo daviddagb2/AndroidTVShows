@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.AndroidTVMazeDemo" parent="@style/Theme.Leanback">
+        <item name="colorPrimary">#e23634</item>
+        <item name="android:colorPrimary">#e23634</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+    </style>
+</resources>
